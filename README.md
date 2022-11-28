@@ -2,9 +2,9 @@
 #### Web Developer
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQFLHaQzVL8aNg/profile-displaybackgroundimage-shrink_350_1400/0/1630171709252?e=1675296000&v=beta&t=RLYRlsYWKykd1e6FyyBX1yxYSdZTsca4JgPJuMfB7As)
 
-Hello There, I'm Web Application Developer.I'm Expert in PHP,Laravel and basic knowledge of Android Application Development(java).
+Hello There, I'm Web Application Developer.I'm Expert in PHP,Laravel,JavaScript,React and basic knowledge of Android Application Development(java,Flutter).
 
-Skills: HTML/CSS/BOOTSTRAP/jQuery/PHP/Laravel
+Skills: HTML/CSS/BOOTSTRAP/jQuery/PHP/Laravel/JavaScript,React
 
 - 🔭 I’m currently working on My Project 
 - 💬 Ask me about Web Development 
